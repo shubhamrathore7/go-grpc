@@ -37,6 +37,7 @@ step 5:
     #Proceed with creating your gRPC server and client code based on the generated Go files.
     #Test your server and client to ensure they are functioning as expected
     docker build -t shubhamrathore777/my-grpc-client:v1 .
+    docker build -t shubhamrathore777/my-grpc-server:v1 .
     docker run --network host 1c075bee517e
 output client:
 vagrant@ubuntu-focal:~/GRPC/go-GRPC/GRPC$ docker run --network host 1c075bee517e
