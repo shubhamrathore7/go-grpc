@@ -71,3 +71,5 @@ Server
 2024/04/05 16:26:07 Received: shubham
 2024/04/05 16:26:07 Received: other1
 2024/04/05 16:26:07 Received: other0
+# References
+ https://protobuf.dev/reference/go/go-generated/#package
